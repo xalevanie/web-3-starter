@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.web.starter"
+    versionCode = "1" 
+    version     = "1.0.0" >
+   <name>Web App Starter</name>
+    <description>
+            Web 3 Starter Application
+    </description>
+    <author href="https://xalevanie.github.io" email="maddybrine92@gmail.com">
+             Madeline Brine
+    </author>
+
+</widget>

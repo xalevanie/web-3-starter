@@ -15,6 +15,12 @@
 		"oAP": "\/build\/build",
 		"oF": 0
 		},
+	"\/config.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/config.xml",
+		"oF": 0
+		},
 	"\/css\/_semantic.scss": {
 		"aP": 0,
 		"bl": 0,
