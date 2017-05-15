@@ -35,6 +35,12 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/docs\/docs",
+		"oF": 0
+		},
 	"\/fonts\/icons.eot": {
 		"ft": 8192,
 		"oA": 2,
